@@ -1,6 +1,6 @@
 /* applies to anything of class "example-class-selector" */
-.example-class-selector {
-	margin-top: 2em;
+.project {
+     margin-left: 20px;
 }
 
 /* applies to any <p> descendants of an element of class "example-class-selector" */
@@ -12,7 +12,7 @@
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
-     border: 1px dotted gray;
+     border: 5px dotted red;
      padding: 20px;
 }
 
